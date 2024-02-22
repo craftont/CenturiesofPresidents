@@ -1,0 +1,70 @@
+html {
+    height: 1000px;
+    width: 1000px;
+    border: 2px solid black;
+    margin: 50px;
+}
+
+header {
+    width: 100%;
+    background-color: lightskyblue;
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+nav {
+    width: 99%;
+    height: 25px;
+    background-color: lightskyblue;
+    top: 30px;
+    font-size: large;
+    padding: 5px;
+    margin-top: 30px;
+}
+
+div {
+    width: 95%;
+    height: 700px;
+    background-color: lightskyblue;
+    margin: auto;
+    margin-top: 30px;
+}
+
+article {
+    width: 350px;
+    height: 600px;
+    background-color: lightyellow;
+    left: 70px;
+    top: 40px;
+    position: relative;
+    border: 5px solid yellow;
+    padding: 20px;
+    font-size: large;
+}
+
+aside {
+    width: 350px;
+    height: 643px;
+    position: relative;
+    background-color: white;
+    left: 500px;
+    bottom: 610px;
+    border: 5px solid red;
+}
+
+footer {
+    width: 98%;
+    height: 30px;
+    background-color: lightskyblue;
+    margin-top: 40px;
+    padding: 1%;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
