@@ -52,6 +52,9 @@ aside {
     left: 500px;
     bottom: 610px;
     border: 5px solid red;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
 }
 
 footer {
